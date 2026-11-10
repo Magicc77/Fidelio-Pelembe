@@ -275,18 +275,18 @@ a {
 }
 
 @media(max-width: 600px){
-    .grupo 
+    .grupo, 
     .projectos{
         grid-template-columns: 1fr;
     }
     .cabecalho h1{
         font-size: 28px;
     }
-    .topo-perfil{
+    .topo-perfil h1{
         font-size: 26px;
+    }
     .seccao{
         padding: 18px;
-    }
     }
 }
 
